@@ -180,7 +180,7 @@ public class machineLearning {
    
       userX[0] = 1;
    
-      System.out.println("************ Welcome to NAME OF THE PROGRAM! **********");
+      System.out.println("************ Welcome to WISearch! **********");
    
       System.out.println("What country do you plan on analyzing?");
       country = scnUser.next();
@@ -576,7 +576,7 @@ public class machineLearning {
       System.out.printf("Your values caused a difference of %.2f percent \n", difference);
       }
       System.out.println();
-      System.out.println("************ Thanks for using NAMEEE! **********");
+      System.out.println("************ Thanks for using WISearch! **********");
    
    
    }
