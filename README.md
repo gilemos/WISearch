@@ -1,6 +1,6 @@
 # WISearch
-This is a project for the Technica hackathon
-Software that uses machine learning to predict the most effective measures to increase woman representation in STEM
+This is a project for the Technica hackathon.
+This project is a software that uses machine learning to predict the most effective measures to increase woman representation in STEM
 ## Inspiration
 In the entire world, women are underrepresented in STEM fields.
 Despite several efforts to revert this scenario, the gender difference in STEM fields has remained the same for decades. This fact points to the inefficiency of previous efforts in addressing this issue
